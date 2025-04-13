@@ -1,6 +1,6 @@
-train: skripsi-cocodataset/train/images
-val: skripsi-cocodataset/valid/images
-test: skripsi-cocodataset/test/images
+train: train/images
+val: valid/images
+test: test/images
 
 
 nc: 78
